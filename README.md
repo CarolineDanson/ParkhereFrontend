@@ -1,4 +1,4 @@
-# Parkhere
+# ParkHere
 Front-end code
 
 # Information about ParkHere
